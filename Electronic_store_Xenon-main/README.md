@@ -1,7 +1,7 @@
 # Electronic_store_Xenon
 Description :- Our objective is to provide best buying experience to the  customer  so that  customer  buy products online without stepping out side.
 
-Technology Stack :- Node js, Github , Angular , Visual Studio Code ,  MySql Workbench , HTML , CSS , TypeScript (JavaScript).
+Technology Stack :- Java Core, Spring MVC, Spring Boot, Spring hibernate, Node js, Github,  MySql Workbench , HTML , CSS , JavaScript.
 
 
 Project Flow :-
